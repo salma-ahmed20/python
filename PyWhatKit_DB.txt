@@ -1,0 +1,35 @@
+Date: 15/1/2023
+Time: 14:17
+Phone Number: +201281102524
+Message: Test message from a python script
+--------------------
+Date: 15/1/2023
+Time: 14:18
+Phone Number: +201003281895
+Message: Test message from a python script
+--------------------
+Date: 15/1/2023
+Time: 14:19
+Phone Number: +201003281895
+Message: Test message from a python script
+--------------------
+Date: 15/1/2023
+Time: 14:20
+Phone Number: +201003281895
+Message: Hi Monica ^_^
+--------------------
+Date: 15/1/2023
+Time: 14:23
+Phone Number: +201003281895
+Message: Hi Monica ^_^
+--------------------
+Date: 15/1/2023
+Time: 14:24
+Phone Number: +201003281895
+Message: Hi Monica ^_^
+--------------------
+Date: 15/1/2023
+Time: 14:28
+Phone Number: +201003281895
+Message: Hi Monicaaa ^_^
+--------------------
